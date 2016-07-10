@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Wiley acceptance test">
+    <test name="ACT test N1">
+        <classes>
+            <class name="com.wiley.tests.BasicFunctionalityTest" />
+        </classes>
+    </test>
+</suite>
